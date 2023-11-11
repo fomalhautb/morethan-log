@@ -10,6 +10,7 @@ const CONFIG = {
     github: "fomalhautb",
     instagram: "",
   },
+  projects: null,
   // projects: [
   //   {
   //     name: `KM-BART`,
