@@ -10,16 +10,16 @@ const CONFIG = {
     github: "fomalhautb",
     instagram: "",
   },
-  projects: [
-    {
-      name: `KM-BART`,
-      href: "https://github.com/fomalhautb/KM-BART",
-    },
-    {
-      name: `3D-RETR`,
-      href: "https://github.com/fomalhautb/3D-RETR",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `KM-BART`,
+  //     href: "https://github.com/fomalhautb/KM-BART",
+  //   },
+  //   {
+  //     name: `3D-RETR`,
+  //     href: "https://github.com/fomalhautb/3D-RETR",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "Zai's Blog",
