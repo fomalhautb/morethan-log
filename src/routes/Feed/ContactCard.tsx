@@ -20,7 +20,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
           >
             <AiOutlineGithub className="icon" />
-            <div className="name">github</div>
+            <div className="name">Github</div>
           </a>
         )}
         {CONFIG.profile.instagram && (
@@ -30,7 +30,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
           >
             <AiOutlineInstagram className="icon" />
-            <div className="name">instagram</div>
+            <div className="name">Instagram</div>
           </a>
         )}
         {CONFIG.profile.email && (
@@ -41,7 +41,7 @@ const ContactCard: React.FC = () => {
             css={{ overflow: "hidden" }}
           >
             <AiOutlineMail className="icon" />
-            <div className="name">email</div>
+            <div className="name">Email</div>
           </a>
         )}
         {CONFIG.profile.linkedin && (
@@ -51,7 +51,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
           >
             <AiFillLinkedin className="icon" />
-            <div className="name">linkedin</div>
+            <div className="name">Linkedin</div>
           </a>
         )}
       </StyledWrapper>
